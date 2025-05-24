@@ -1,0 +1,14 @@
+SASS Installation Script - ALX Intermediate Frontend
+
+1. Ensured Node.js was installed on my machine.
+   - Checked by running: node -v
+   - Version installed: v20.16.0
+
+2. Initialized a Node project (optional):
+   npm init -y
+
+3. Installed SASS using npm:
+   npm install sass@3.7.4
+
+4. Verified installation by checking the sass binary:
+   npx sass --version
